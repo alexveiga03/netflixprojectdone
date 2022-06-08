@@ -35,6 +35,14 @@ Para a realização deste trabalho recorremos ao material de apoio disponiblizad
     <td>show_id</td>
     <td>ID do Programa</td>
   </tr>
+  <tr>
+    <td>type</td>
+    <td>Tipo de conteúdo</td>
+  </tr>
+  <tr>
+    <td>tytle</td>
+    <td>Título</td>
+  </tr>
 </table>
   </body>
   </html>
