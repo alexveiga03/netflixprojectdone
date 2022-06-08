@@ -27,8 +27,8 @@ Para a realização deste trabalho recorremos ao material de apoio disponiblizad
   <body>
 <table>
   <tr>
-    <td>Nome da coluna
-    <td>Significado
+    <th>Nome da coluna
+    <th>Significado
   </tr>
   <tr>
     <td>teste 1</td>
