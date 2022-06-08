@@ -28,9 +28,11 @@ Para a realização deste trabalho recorremos ao material de apoio disponiblizad
 <table>
   <tr>
     <td>Nome da coluna<td>
+    <td>Significado<td>
   </tr>
   <tr>
     <td>teste 1</td>
+    <td>teste 1.1</td>
   </tr>
 </table>
   </body>
