@@ -20,3 +20,18 @@ Para a realização deste trabalho recorremos ao material de apoio disponiblizad
 6. Análise do tipo dos 15 primeiros filmes
 7. Criação de um gráfico de linhas do ano de lançamento dos filmes
 8. Criação de gráfico de comparação da quantidade de filmes com séries
+
+# Dicionário de dados
+<!DOCTYPE html>
+<htlm>
+  <body>
+<table>
+  <tr>
+    <th>Nome da coluna<th>
+    <th>Significado<th>
+  </tr>
+    <td>teste 1</td>
+    <td>teste 1.1</td>
+</table>
+  </body>
+  </html>
