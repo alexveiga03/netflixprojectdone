@@ -43,6 +43,42 @@ Para a realização deste trabalho recorremos ao material de apoio disponiblizad
     <td>tytle</td>
     <td>Título</td>
   </tr>
+  <tr>
+    <td>director</td>
+    <td>Realizador</td>
+  </tr>
+  <tr>
+    <td>cast</td>
+    <td>Elenco</td>
+  </tr>
+  <tr>
+    <td>country</td>
+    <td>País</td>
+  </tr>
+  <tr>
+    <td>date_added</td>
+    <td>Data de lançamento</td>
+  </tr>
+  <tr>
+    <td>realease_year</td>
+    <td>Ano de lançamento</td>
+  </tr>
+  <tr>
+    <td>rating</td>
+    <td>Classificação</td>
+  </tr>
+  <tr>
+    <td>duration</td>
+    <td>Duração</td>
+  </tr>
+  <tr>
+    <td>listed_in</td>
+    <td>Categoria</td>
+  </tr>
+  <tr>
+    <td>description</td>
+    <td>Descrição</td>
+  </tr>
 </table>
   </body>
   </html>
