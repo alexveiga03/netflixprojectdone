@@ -22,6 +22,7 @@ Para a realização deste trabalho recorremos ao material de apoio disponiblizad
 8. Criação de gráfico de comparação da quantidade de filmes com séries
 
 # Dicionário de dados
+
 <!DOCTYPE html>
 <htlm>
   <body>
@@ -31,8 +32,8 @@ Para a realização deste trabalho recorremos ao material de apoio disponiblizad
     <th>Significado
   </tr>
   <tr>
-    <td>teste 1</td>
-    <td>teste 1.1</td>
+    <td>show_id</td>
+    <td>ID do Programa</td>
   </tr>
 </table>
   </body>
