@@ -10,6 +10,8 @@ Este trabalho teve como objetivo a análise de dados retirados da Netflix. O con
 
 Para a realização deste trabalho recorremos ao material de apoio disponiblizado pelo professor, o ficheiro csv foi encontrado no site (https://www.kaggle.com/shivamb/netflix-shows) e fizemos uso do Jupiter para a realização do código.
 
+GitHub - https://github.com/alexveiga03/netflixprojectdone.git
+
 # Estrutura
 
 1. Análise dos dados CSV
